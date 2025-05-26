@@ -1,0 +1,12 @@
+docker ps                # Список запущенных контейнеров
+docker ps -a             # Все (включая остановленные)
+docker images            # Список всех образов
+docker pull <name>       # Скачать образ из Docker Hub
+docker run <image>       # Запустить контейнер
+docker stop <id>         # Остановить контейнер
+docker start <id>        # Запустить остановленный контейнер
+docker rm <id>           # Удалить контейнер
+docker rmi <id>          # Удалить образ
+
+
+Запомнить все базовые команды
