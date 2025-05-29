@@ -1,0 +1,10 @@
+Запомнить команды
+
+
+docker-compose build Собрать образы.
+docker-compose up Запустить все сервисы.
+docker-compose stop Остановить сервисы.
+docker-compose down Полностью остановить и удалить контейнеры.
+docker-compose up --build пересобрать образы и запустить
+
+
